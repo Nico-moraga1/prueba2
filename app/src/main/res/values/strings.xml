@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Credit card form</string>
+    <string name="tv_titulo">Información de la tarjeta de crédito</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="tv_nombre">Nombre</string>
+    <string name="tv_apellido">Apellido</string>
+    <string name="tv_numerodetarjeta">Numero de tarjeta</string>
+    <string name="tv_mes">Mes</string>
+    <string name="tv_año">Año</string>
+    <string name="tv_codigo">Código</string>
+    <string name="tv_direccion">Dirección</string>
+    <string name="tv_calleynumero">Calle y Número</string>
+    <string name="tv_ciudad">Ciudad</string>
+    <string name="tv_estado">Estado</string>
+    <string name="tv_codigo_postal">Código Postal</string>
+    <string name="btn_REGISTRAR">Registrar</string>
+    <string name="btn_BUSCAR">Buscar</string>
+
+</resources>
